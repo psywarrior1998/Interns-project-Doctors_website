@@ -1,0 +1,83 @@
+    .scrolling-updates{
+        background: #00A950;
+        color: white;
+        height: 27px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .border-right{
+          border-right: 1px solid black; 
+          height: 40px;  
+    }
+    .opd-inner{
+        font-size: 70px;
+    }
+    
+    .sp-hover:hover{
+          opacity: 0.5;
+          font-weight: bold;
+          cursor: pointer;
+          font-size: 20px;
+      }
+      .Specialities{
+        width: 180px;
+        height: 25px;
+        box-sizing: border-box;
+        padding-left: 100px;
+        font-size: 14px;
+      }
+      .opd{
+        box-sizing: border-box;
+        padding: 40px 75px;
+      }
+      .opd-inner{
+        font-size: 70px;
+      }
+      .opd-text{
+        box-sizing: border-box;
+        padding-left: 65px;
+      }
+      .s_icons {
+                padding: 8px;
+                font-size: 25px;
+                width: 40px;
+                height: 40px;
+                text-align: center;
+                text-decoration: none;
+                /*margin: 35px 2px;*/
+                border-radius: 100px;
+        }
+
+        .s_icons:hover {
+                opacity: 0.7;
+        }
+        .toggle2{
+            width: 100%;
+            padding: 10px 20px;
+            background: #001F44;
+            text-align: right;
+            box-sizing: border-box;
+            font-size: 30px; 
+            color: #fff;
+            display: none;
+            cursor: pointer;
+        }
+        @media (max-width: 768px){
+            .toggle2{
+                display: block;
+            }
+            .tul{
+                display: none;
+            }
+        }
+        .tul{
+            width: 100%;
+        }
+        .tul li{
+            display: block;
+            text-align: center;
+        }
+        .active{
+            display: block;
+        }
+  
