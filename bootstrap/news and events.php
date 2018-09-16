@@ -1,5 +1,5 @@
 
-        <div class="container-fluid" style="height: auto; background: url('image/bg.jpg') no-repeat;">
+        <div class="container-fluid" style="height: auto; background: url('image/bg.jpg') no-repeat; border-top: 1px solid #dfdfdf;">
             <div class="container">
                     <div class="col-md-4 col-xs-12" style="background: rgba(0,0,0,0.3); height: auto;">
                             <div class="row" style="background: gainsboro; height: 100px; box-sizing: border-box; padding: 10px;
