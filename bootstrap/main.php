@@ -34,7 +34,8 @@
     <?php include("header1.php"); ?>
     
     <?php include("carousal1.php"); ?>
-
+	<?php echo"<br>"; ?>
+	
     <?php include("clinical specialities.php"); ?>
     <?php echo"<br>"; ?>
 
@@ -42,6 +43,7 @@
     <?php echo"<br><br>"; ?>
 
     <?php include("app promotin.php"); ?>
+	<?php echo"<br>"; ?>
 
     <?php include("patients speak.php"); ?>
     <?php echo"<br>"; ?>
