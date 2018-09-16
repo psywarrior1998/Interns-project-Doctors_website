@@ -3,9 +3,9 @@
     
     <div class="col-md-2 col-xs-12" style=" height: auto; float: left; padding: 0; text-align: center;">
         <div class="lead" style="font-weight: bold; font-size: 24px;">Now health care <br> in your pocket</div>
-        <img onclick="javascript:location.href='https://itunes.apple.com/in/app/';" style="margin-top: 10px; cursor: pointer; max-width: 100%; height: auto;" src="image/app-store.jpg"/>
+        <img onclick="javascript:location.href='https://itunes.apple.com/in/app/';" style="margin-top: 10px; cursor: pointer; max-width: 100%; height: auto;" src="image/app-store.jpg"/><br><br>
         <img onclick="javascript:location.href='https://play.google.com/store/apps/';" src="image/play-store.jpg" style="cursor: pointer; max-width: 100%; cursor: pointer; height: auto;"/>
-        <or style="font-size: 25px; text-align: center;">OR</or>
+        <br><br><or style="font-size: 20px; text-align: center;">OR</or><br>
         <nav class="navbar navbar-light bg-light">
                 <form class="form-inline">
                     <input class="form-control mr-sm-2" type="text" placeholder="Enter mobile number" aria-label="Search" style=""><br><br>
