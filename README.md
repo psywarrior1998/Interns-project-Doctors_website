@@ -1,3 +1,2 @@
-# Interns-project-Doctors_website
-This project has been created for an internship purpoose.
-and the technology used is bootstrap and bit php and jquery code to make the website look dynamic.
+Doctor's Website 
+This site is an in-progress making of a website for doctors and medical professionals for the management of clinics, hospital etc
